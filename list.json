@@ -28,5 +28,10 @@
         "branch": "CSE",
         "semester": "4th",
         "gender": "male"
+    },{
+        "name": "Sonal Jain",
+        "branch": "IT",
+        "semester": "6th",
+        "gender": "female"
     }
 ]
