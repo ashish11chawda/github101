@@ -34,4 +34,10 @@
         "semester": "6th",
         "gender": "female"
     }
+    , {
+        "name": "Rocky Bhai",
+        "branch": "Mech",
+        "semester": "8th",
+        "gender": "male"
+   }
 ]
