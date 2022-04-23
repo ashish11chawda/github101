@@ -34,6 +34,12 @@
         "branch": "IT",
         "semester": "6th",
         "gender": "female"
+    },
+    {
+        "name": "Rishabh Sethi",
+        "branch": "CSE",
+        "semester": "4th",
+        "gender": "male"
     }
     ,{
         "name": "Ayush Sahu",
