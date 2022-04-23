@@ -33,6 +33,12 @@
         "branch": "IT",
         "semester": "6th",
         "gender": "female"
+    },
+    {
+        "name": "Bhupesh Dewangan",
+        "branch": "CSE",
+        "semester": "4th",
+        "gender": "male"
     }
     , {
         "name": "Rocky Bhai",
