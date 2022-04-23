@@ -34,4 +34,10 @@
         "semester": "6th",
         "gender": "female"
     }
+    ,{
+        "name": "Aditya Yadav",
+        "branch": "CSE",
+        "semester": "4th",
+        "gender": "male"
+    }
 ]
