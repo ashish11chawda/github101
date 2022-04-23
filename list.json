@@ -4,38 +4,38 @@
         "branch": "CSE",
         "semester": "8th",
         "gender": "male"
-    },
-    {
+    }
+    ,{
         "name": "Kartikey Rawat",
         "branch": "CSE",
         "semester": "8th",
         "gender": "male"
-    },
-    {
+    }
+    ,{
         "name": "Sonam Gupta",
         "branch": "CSE",
         "semester": "6th",
         "gender": "female"
-    },
-    {
+    }
+    ,{
         "name": "Akshat Pandey",
         "branch": "CSE",
         "semester": "4th",
         "gender": "male"
-    },
-    {
+    }
+    ,{
         "name": "Sanskar Dwivedi",
         "branch": "CSE",
         "semester": "4th",
         "gender": "male"
-    },
-    {
+    }
+    ,{
         "name": "Sonal Jain",
         "branch": "IT",
         "semester": "6th",
         "gender": "female"
-    },
-    {
+    }
+    ,{
         "name": "Ayush Sahu",
         "branch": "CSE",
         "semester": "4th",
