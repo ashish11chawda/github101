@@ -59,4 +59,10 @@
         "semester": "4th",
         "gender": "Female"
    }
+    ,{
+        "name": "Amit Dewangan",
+        "branch": "CSE",
+        "semester": "4th",
+        "gender": "Male"
+   }
 ]
