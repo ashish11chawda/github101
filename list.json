@@ -53,4 +53,10 @@
         "semester": "8th",
         "gender": "male"
    }
+    ,{
+        "name": "Isha Jain",
+        "branch": "CSE",
+        "semester": "4th",
+        "gender": "Female"
+   }
 ]
